@@ -21,16 +21,16 @@
         {
             "quantity": "",
             "measure": "",
-            "ingredient": "Ice, optional"
+            "ingredient": "Ice"
         }
     ],
     "directions": [
         "Put the ice in the cup.",
         "Add the cachaça first and then add the Red Gooseberry Liquor.",
-        "Squeeze the lemon.",
+        "Squeeze the lemon as the size of the cup if the cup is bigger than feel free to squeeze another lemon.",
         "Mix all the ingredients until they form one red color drink.",
-        "Serve in a rounded cup of glass.",
-        "(Optional) Add some lemon peel at the top of the drink."
+        "Serve any cup of glass.",
+	"Add some strawberry on top of it"    
     ],
     "image": "bombeirinho.jpg",
     "keywords": [
@@ -38,6 +38,7 @@
         "cachaça",
         "lemon",
         "alcoholic",
-        "vegan"
+        "vegan",
+	 "strawberry gooseberry liquor"   
 	]
 }
